@@ -5,9 +5,9 @@
 	(uuid "5a04f074-07e4-45fe-8627-5d4fa34b2b6b")
 	(paper "A4")
 	(title_block
-		(title "FPGA Banks 15 & 16")
-		(date "2024-03-24")
-		(rev "1.1")
+		(title "Pi 5 - Artix XC7A50T - PCIe FPGA Hat")
+		(date "2025-07-17")
+		(rev "1.2")
 		(company "George Smart, M1GEO")
 		(comment 1 "https://github.com/m1geo/Pi5-Artix-FPGA-Hat")
 		(comment 2 "https://www.george-smart.co.uk")

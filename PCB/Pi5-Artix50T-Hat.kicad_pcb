@@ -35618,7 +35618,7 @@
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C65"
-			(at 0 1.16 -90)
+			(at 0 1.16 270)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "92d91b28-575b-4c9b-b2e2-a5211313780e")
@@ -35631,7 +35631,7 @@
 			)
 		)
 		(property "Value" "4.7u"
-			(at 0 -1.16 -90)
+			(at 0 -1.16 270)
 			(layer "B.Fab")
 			(uuid "af9499ef-7660-488c-b579-ac5a13383db1")
 			(effects
@@ -35643,7 +35643,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_Samsung-Electro-Mechanics-CL05A475MP5NRNC_C23733.pdf"
-			(at 0 0 -90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -35657,7 +35657,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 -90)
+			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
@@ -35789,7 +35789,7 @@
 			(uuid "89f3ed79-7927-4d53-b1d7-f77fb172579e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 -90)
+			(at 0 0 270)
 			(layer "B.Fab")
 			(uuid "6f2b50a3-e7b6-49e2-919c-1f2dfeb5b8a6")
 			(effects
@@ -43300,7 +43300,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Pi5 Artix 50T Hat\nGeorge Smart, M1GEO.\n24 Mar 2024  V1.1"
+	(gr_text "Pi5 Artix 50T Hat\nIntergalaktik d.o.o.\n17 Jul 2025  V1.2"
 		(at 138 56.5 0)
 		(layer "F.SilkS")
 		(uuid "b2442244-cc57-4868-b1ee-53b82191bf72")
@@ -43360,7 +43360,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "24 Mar 2024 - V1.1 - Pi5 Artix 50T Hat"
+	(gr_text "17 Jul 2024 - V1.2 - Pi5 Artix 50T Hat"
 		(at 150 99.25 0)
 		(layer "B.SilkS")
 		(uuid "be69395a-0a70-400e-ba03-9120000c5400")

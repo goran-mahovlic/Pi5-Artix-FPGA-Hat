@@ -6,11 +6,12 @@
 	(paper "A4")
 	(title_block
 		(title "Pi 5 - Artix XC7A50T - PCIe FPGA Hat")
-		(date "2024-03-24")
-		(rev "1.1")
+		(date "2025-07-17")
+		(rev "1.2")
 		(company "George Smart, M1GEO")
 		(comment 1 "https://github.com/m1geo/Pi5-Artix-FPGA-Hat")
 		(comment 2 "https://www.george-smart.co.uk")
+		(comment 3 "Update to V1.2 by Intergalaktik d.o.o.")
 	)
 	(lib_symbols)
 	(wire

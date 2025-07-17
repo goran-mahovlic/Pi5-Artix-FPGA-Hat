@@ -5,9 +5,9 @@
 	(uuid "dde1b690-a93d-45de-bbb7-f2df8a92cb1c")
 	(paper "A4")
 	(title_block
-		(title "Raspberry Pi 5 - GPIO & PCIe Headers")
-		(date "2024-03-24")
-		(rev "1.1")
+		(title "Pi 5 - Artix XC7A50T - PCIe FPGA Hat")
+		(date "2025-07-17")
+		(rev "1.2")
 		(company "George Smart, M1GEO")
 		(comment 1 "https://github.com/m1geo/Pi5-Artix-FPGA-Hat")
 		(comment 2 "https://www.george-smart.co.uk")
