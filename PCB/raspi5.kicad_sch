@@ -5877,7 +5877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "68711614522"
+		(property "Footprint" "Wurth_68711614522:68711614522"
 			(at 181.61 138.1 0)
 			(effects
 				(font
