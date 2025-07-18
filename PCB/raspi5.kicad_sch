@@ -6129,7 +6129,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3.2k"
+		(property "Value" "4k7"
 			(at 185.42 127 0)
 			(effects
 				(font
@@ -6165,7 +6165,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C853935"
+		(property "LCSC" "C25900"
 			(at 184.15 125.73 0)
 			(effects
 				(font
@@ -6430,9 +6430,9 @@
 		(at 95.25 64.77 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "31429073-e1ae-43e4-9ad5-03e0b2009520")
 		(property "Reference" "J1"
 			(at 96.52 36.4298 0)
@@ -6830,7 +6830,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3.2k"
+		(property "Value" "4k7"
 			(at 177.8 127 0)
 			(effects
 				(font
@@ -6866,7 +6866,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C853935"
+		(property "LCSC" "C25900"
 			(at 176.53 125.73 0)
 			(effects
 				(font

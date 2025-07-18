@@ -16640,7 +16640,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "MIPI0"
+		(property "Value" "C597981"
 			(at 203.2 128.2699 0)
 			(effects
 				(font
@@ -16658,7 +16658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_2410121851_HRS-FH12-22S-0-5SH-55_C597981.pdf"
 			(at 204.47 128.27 0)
 			(effects
 				(font
@@ -16668,6 +16668,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x22, script generated"
+			(at 204.47 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C597981"
 			(at 204.47 128.27 0)
 			(effects
 				(font
@@ -16770,7 +16779,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "MIPI1"
+		(property "Value" "C597981"
 			(at 242.57 128.2699 0)
 			(effects
 				(font
@@ -16788,7 +16797,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://lcsc.com/datasheet/lcsc_datasheet_2410121851_HRS-FH12-22S-0-5SH-55_C597981.pdf"
 			(at 243.84 128.27 0)
 			(effects
 				(font
@@ -16798,6 +16807,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x22, script generated"
+			(at 243.84 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C597981"
 			(at 243.84 128.27 0)
 			(effects
 				(font

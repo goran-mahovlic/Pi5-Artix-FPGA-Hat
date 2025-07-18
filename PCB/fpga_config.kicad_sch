@@ -12789,7 +12789,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3.2k"
+		(property "Value" "4k7"
 			(at 168.275 36.83 0)
 			(effects
 				(font
@@ -12825,7 +12825,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C853935"
+		(property "LCSC" "C25900"
 			(at 167.005 35.56 0)
 			(effects
 				(font
@@ -12930,7 +12930,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3.2k"
+		(property "Value" "4k7"
 			(at 122.555 90.805 0)
 			(effects
 				(font
@@ -12966,7 +12966,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C853935"
+		(property "LCSC" "C25900"
 			(at 121.285 89.535 0)
 			(effects
 				(font
@@ -13017,7 +13017,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 134.62 113.03 0)
 			(effects
 				(font
@@ -13094,7 +13094,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3.2k"
+		(property "Value" "4k7"
 			(at 115.57 90.805 0)
 			(effects
 				(font
@@ -13130,7 +13130,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C853935"
+		(property "LCSC" "C25900"
 			(at 114.3 89.535 0)
 			(effects
 				(font
@@ -13172,7 +13172,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3.2k"
+		(property "Value" "4k7"
 			(at 161.29 53.34 0)
 			(effects
 				(font
@@ -13208,7 +13208,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C853935"
+		(property "LCSC" "C25900"
 			(at 160.02 52.07 0)
 			(effects
 				(font
@@ -13393,7 +13393,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3.2k"
+		(property "Value" "4k7"
 			(at 161.29 36.83 0)
 			(effects
 				(font
@@ -13429,7 +13429,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C853935"
+		(property "LCSC" "C25900"
 			(at 160.02 35.56 0)
 			(effects
 				(font
@@ -13809,7 +13809,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3.2k"
+		(property "Value" "4k7"
 			(at 175.26 36.83 0)
 			(effects
 				(font
@@ -13845,7 +13845,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C853935"
+		(property "LCSC" "C25900"
 			(at 173.99 35.56 0)
 			(effects
 				(font

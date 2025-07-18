@@ -10234,7 +10234,7 @@
 				)
 			)
 		)
-		(property "Value" "3.2k"
+		(property "Value" "4k7"
 			(at 185.42 76.2 90)
 			(effects
 				(font
@@ -10269,7 +10269,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C853935"
+		(property "LCSC" "C25900"
 			(at 185.42 78.74 0)
 			(effects
 				(font
@@ -12432,7 +12432,7 @@
 				)
 			)
 		)
-		(property "Value" "3.2k"
+		(property "Value" "4k7"
 			(at 170.815 142.24 90)
 			(effects
 				(font
@@ -12467,7 +12467,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C853935"
+		(property "LCSC" "C25900"
 			(at 170.815 144.78 0)
 			(effects
 				(font
