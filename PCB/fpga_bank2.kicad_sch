@@ -16649,7 +16649,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11022_1x22-1MP_P0.5mm_Horizontal"
+		(property "Footprint" "FHT12:CONN_FH12-22S-0.5SH55_HIR"
 			(at 204.47 128.27 0)
 			(effects
 				(font
@@ -16788,7 +16788,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11022_1x22-1MP_P0.5mm_Horizontal"
+		(property "Footprint" "FHT12:CONN_FH12-22S-0.5SH55_HIR"
 			(at 243.84 128.27 0)
 			(effects
 				(font
